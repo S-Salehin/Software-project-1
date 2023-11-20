@@ -1,2 +1,2 @@
 # pip Install -r requirments.txt
-Your are good to go
+run .py & u our are good to go
